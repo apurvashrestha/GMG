@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/7685d8e3-e0ea-422e-ad1e-abff684808eb/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/getDCAddress-develop"
+}
